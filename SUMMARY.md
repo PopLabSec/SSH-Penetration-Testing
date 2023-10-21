@@ -27,3 +27,7 @@
 * [SSH User Code Execution](post-exploitation/ssh-user-code-execution.md)
 * [SSH Hijacking](post-exploitation/ssh-hijacking.md)
 * [Steal SSH credentials](post-exploitation/steal-ssh-credentials.md)
+
+## Pivoting with SSH
+
+* [Page 1](pivoting-with-ssh/page-1.md)
