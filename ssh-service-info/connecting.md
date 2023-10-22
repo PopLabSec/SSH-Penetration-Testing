@@ -1,5 +1,0 @@
-# Connecting
-
-```
-ssh popdocs@192.168.1.10
-```

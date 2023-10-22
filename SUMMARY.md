@@ -2,12 +2,7 @@
 
 * [SSH Penetration Testing port 22](README.md)
 * [SSH Hacking Tools](ssh-hacking-tools.md)
-
-## SSH Service Info
-
-* [Installation](ssh-service-info/installation.md)
-* [Connecting](ssh-service-info/connecting.md)
-* [Config Files](ssh-service-info/config-files.md)
+* [SSH Service Info](ssh-service-info.md)
 
 ## Enumeration
 
