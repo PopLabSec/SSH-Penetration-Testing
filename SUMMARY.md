@@ -3,6 +3,7 @@
 * [Hacking Port 22](README.md)
 * [SSH Hacking Tools](ssh-hacking-tools.md)
 * [SSH Service Info](ssh-service-info.md)
+* [Authentication Types](authentication-types.md)
 
 ## Enumeration
 
