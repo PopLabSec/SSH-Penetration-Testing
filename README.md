@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/SSH Penetration Testing.png
+cover: .gitbook/assets/SSH_Penetration_Testing.png
 coverY: 0
 ---
 
