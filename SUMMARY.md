@@ -12,6 +12,10 @@
 ## Enumeration
 
 * [Scanning](enumeration/scanning.md)
+* [Version](enumeration/version.md)
+* [Usernames](enumeration/usernames.md)
+* [Default Credentials](enumeration/default-credentials.md)
+* [SSH-Audit](enumeration/ssh-audit.md)
 
 ## Passwords
 
