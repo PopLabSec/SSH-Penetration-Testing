@@ -22,7 +22,7 @@
 
 ## Exploits
 
-* [Page 2](exploits/page-2.md)
+* [SSH Exploits](exploits/ssh-exploits.md)
 
 ## Post Exploitation
 
