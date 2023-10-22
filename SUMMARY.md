@@ -16,6 +16,7 @@
 
 * [Bruteforce](passwords/bruteforce.md)
 * [Hash Crack](passwords/hash-crack.md)
+* [RSA Keys](passwords/rsa-keys.md)
 
 ## Exploits
 
@@ -30,4 +31,6 @@
 
 ## Pivoting with SSH
 
-* [Page 1](pivoting-with-ssh/page-1.md)
+* [Tunnels](pivoting-with-ssh/tunnels.md)
+* [Socks](pivoting-with-ssh/socks.md)
+* [VPN](pivoting-with-ssh/vpn.md)
