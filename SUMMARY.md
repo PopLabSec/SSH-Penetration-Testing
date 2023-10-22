@@ -17,6 +17,7 @@
 * [Bruteforce](passwords/bruteforce.md)
 * [Hash Crack](passwords/hash-crack.md)
 * [RSA Keys](passwords/rsa-keys.md)
+* [SSH-MITM](passwords/ssh-mitm.md)
 
 ## Exploits
 
