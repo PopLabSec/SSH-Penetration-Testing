@@ -1,6 +1,6 @@
 # Table of contents
 
-* [SSH Penetration Testing port 22](README.md)
+* [Hacking Port 22](README.md)
 * [SSH Hacking Tools](ssh-hacking-tools.md)
 * [SSH Service Info](ssh-service-info.md)
 
