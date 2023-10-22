@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/SSH Penetration Testing.png
+coverY: 0
+---
+
 # Authentication Types
 
 SSH authentication types:
