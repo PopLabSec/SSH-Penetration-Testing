@@ -51,4 +51,5 @@ Your contributions and feedback are highly valued as we work towards making SSH 
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href=".gitbook/assets/Linux_Penetration_Testing.jpg">Linux_Penetration_Testing.jpg</a></td></tr><tr><td></td><td></td><td></td><td><a href=".gitbook/assets/Windows_Penetration_Testing.jpg">Windows_Penetration_Testing.jpg</a></td></tr><tr><td></td><td></td><td></td><td><a href=".gitbook/assets/BSD_Penetration_Testing.jpg">BSD_Penetration_Testing.jpg</a></td></tr></tbody></table>
+
