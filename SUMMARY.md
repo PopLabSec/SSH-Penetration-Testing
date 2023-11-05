@@ -8,25 +8,37 @@
 * [Authentication Types](learn-ssh/authentication-types.md)
 * [SSH Service Info](learn-ssh/ssh-service-info.md)
 * [SSH Hacking Tools](learn-ssh/ssh-hacking-tools.md)
+* [SSH Servers](learn-ssh/ssh-servers.md)
 
-## Enumeration
+## SSH Enumeration
 
-* [Scanning](enumeration/scanning.md)
-* [Default Credentials](enumeration/default-credentials.md)
-* [Usernames](enumeration/usernames.md)
-* [SSH-Audit](enumeration/ssh-audit.md)
+* [Readme](ssh-enumeration/readme.md)
+* [Scanning](ssh-enumeration/scanning.md)
+* [Default Credentials](ssh-enumeration/default-credentials.md)
+* [Usernames](ssh-enumeration/usernames.md)
+* [SSH-Audit](ssh-enumeration/ssh-audit.md)
 
-## Passwords
+## Password and Key-Based Attacks
 
-* [Bruteforce](passwords/bruteforce.md)
-* [Hash Crack](passwords/hash-crack.md)
-* [RSA Keys](passwords/rsa-keys.md)
-* [SSH-MITM](passwords/ssh-mitm.md)
+* [Readme](password-and-key-based-attacks/readme.md)
+* [Bruteforce](password-and-key-based-attacks/bruteforce.md)
+* [Hash Crack](password-and-key-based-attacks/hash-crack.md)
+* [RSA Keys](password-and-key-based-attacks/rsa-keys.md)
+* [SSH-MITM](password-and-key-based-attacks/ssh-mitm.md)
 
-## Exploits
+## Vulnerability Assessment
 
-* [SSH Exploits](exploits/page-2.md)
-* [CVE-2008-0166](exploits/cve-2008-0166.md)
+* [Readme](vulnerability-assessment/readme.md)
+* [SSH Exploits](vulnerability-assessment/ssh-exploits.md)
+* [CVE-2008-0166](vulnerability-assessment/cve-2008-0166.md)
+
+## SSH Exploitation
+
+* [Page 1](ssh-exploitation/page-1.md)
+
+## Man-in-the-Middle (MitM)
+
+* [Readme](man-in-the-middle-mitm/readme.md)
 
 ## Post Exploitation
 
@@ -41,3 +53,11 @@
 * [Tunnels](pivoting-with-ssh/tunnels.md)
 * [Socks](pivoting-with-ssh/socks.md)
 * [VPN](pivoting-with-ssh/vpn.md)
+
+## SSH Client-Side Attacks
+
+* [Readme](ssh-client-side-attacks/readme.md)
+
+## Cleanup and Remediation
+
+* [Readme](cleanup-and-remediation/readme.md)

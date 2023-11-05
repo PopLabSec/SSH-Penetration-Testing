@@ -7,6 +7,14 @@ coverY: 0
 
 ## Welcome aboard!
 
+SSH Penetration Testing is a process of identifying and exploiting vulnerabilities in Remote System using Secure Shell protocol.&#x20;
+
+Often used to gain access to systems for administrative purposes, SSH is an important component of security for any IT environment.&#x20;
+
+To identify security weaknesses, an attacker needs to identify weaknesses in the SSH service, and then exploit those vulnerabilities.&#x20;
+
+Performing an SSH Penetration Test allows IT teams to reduce the risk of a succes
+
 {% embed url="https://www.poplabsec.com/ssh-penetration-testing/" %}
 
 
