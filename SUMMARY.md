@@ -5,10 +5,12 @@
 ## Learn SSH
 
 * [Readme](learn-ssh/readme.md)
-* [Authentication Types](learn-ssh/authentication-types.md)
 * [SSH Service Info](learn-ssh/ssh-service-info.md)
+* [Authentication Types](learn-ssh/authentication-types.md)
 * [SSH Hacking Tools](learn-ssh/ssh-hacking-tools.md)
 * [SSH Servers](learn-ssh/ssh-servers.md)
+* [SSH Ciphers](learn-ssh/ssh-ciphers.md)
+* [SSH Hashs](learn-ssh/ssh-hashs.md)
 
 ## SSH Enumeration
 

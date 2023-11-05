@@ -1,4 +1,8 @@
 ---
+description: >-
+  This guide covers best-practices for SSH scanning, understanding the different
+  types of SSH scanning techniques, and how to securely use them in a
+  penetration testing environment.
 cover: ../.gitbook/assets/SSH Penetration Testing.png
 coverY: 0
 ---
