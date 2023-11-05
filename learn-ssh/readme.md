@@ -12,3 +12,5 @@ SSH encrypts the session and ensures data is transmitted securely over an untrus
 Some of the common functions of SSH include logins, file transfers, management of remote servers, and tunneling of traffic.
 
 {% embed url="https://cli-ck.me/htb-pro-labs" %}
+
+{% embed url="https://www.ssh.com/academy/ssh/port" %}
