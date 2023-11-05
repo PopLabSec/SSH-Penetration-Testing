@@ -20,6 +20,7 @@
 * [Default Credentials](ssh-enumeration/default-credentials.md)
 * [Usernames](ssh-enumeration/usernames.md)
 * [SSH-Audit](ssh-enumeration/ssh-audit.md)
+* [Hacking Pro Labs](https://cli-ck.me/htb-pro-labs)
 
 ## Password and Key-Based Attacks
 
@@ -50,6 +51,7 @@
 * [SSH Hijacking](post-exploitation/ssh-hijacking.md)
 * [Steal SSH credentials](post-exploitation/steal-ssh-credentials.md)
 * [Page](post-exploitation/page.md)
+* [HTB Pro Labs](https://cli-ck.me/htb-pro-labs)
 
 ## Pivoting with SSH
 
