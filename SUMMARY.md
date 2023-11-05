@@ -22,6 +22,7 @@
 ## Exploits
 
 * [SSH Exploits](exploits/page-2.md)
+* [CVE-2008-0166](exploits/cve-2008-0166.md)
 
 ## Post Exploitation
 
