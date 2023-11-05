@@ -11,6 +11,7 @@
 * [SSH Servers](learn-ssh/ssh-servers.md)
 * [SSH Ciphers](learn-ssh/ssh-ciphers.md)
 * [SSH Hashs](learn-ssh/ssh-hashs.md)
+* [SSH RFCs](learn-ssh/ssh-rfcs.md)
 
 ## SSH Enumeration
 

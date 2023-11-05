@@ -5,6 +5,12 @@ coverY: 0
 
 # SSH Service Info
 
+When it comes to protecting your servers from unauthorized access, there are no longer any excuses. Every business should be aware and make sure their SSH service is secure.&#x20;
+
+Secure Shell, or SSH, is an encrypted networking protocol commonly used to gain remote access to a server.&#x20;
+
+It is an important protocol that is used to securely transfer data between two computers over an insecure network or the internet.
+
 ### Installation
 
 ### Connecting
@@ -24,3 +30,6 @@ nano /etc/ssh/sshd_config
 ```sh
 ssh domain-name\\username@domain-controller
 ```
+
+Securing Your SSH Service
+
