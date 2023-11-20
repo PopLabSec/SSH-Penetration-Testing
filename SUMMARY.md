@@ -35,6 +35,7 @@
 * [Readme](vulnerability-assessment/readme.md)
 * [SSH Exploits](vulnerability-assessment/ssh-exploits.md)
 * [CVE-2008-0166](vulnerability-assessment/cve-2008-0166.md)
+* [CVE-2023-38408](vulnerability-assessment/cve-2023-38408.md)
 
 ## SSH Exploitation
 
