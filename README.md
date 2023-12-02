@@ -7,7 +7,7 @@ cover: .gitbook/assets/SSH_Penetration_Testing.png
 coverY: 0
 ---
 
-# Hacking Port 22
+# 🟢 Hacking Port 22
 
 ## Welcome aboard!
 
@@ -42,6 +42,10 @@ Please feel free to contribute to this repository, share your expertise, and col
 Together, we can strengthen the security of critical networks and telecommunication systems.
 
 Your contributions and feedback are highly valued as we work towards making SSH implementations more secure.
+
+### Enumeration
+
+### Brute Force
 
 ### Network Protocols Hacking
 
