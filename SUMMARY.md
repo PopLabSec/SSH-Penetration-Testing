@@ -12,6 +12,7 @@
 * [🟢 SSH Hashs](learn-ssh/ssh-hashs.md)
 * [🟢 SSH RFCs](learn-ssh/ssh-rfcs.md)
 * [SSH Hacking Tools](learn-ssh/ssh-hacking-tools.md)
+* [Dangerous Settings](learn-ssh/dangerous-settings.md)
 
 ## SSH Enumeration
 
