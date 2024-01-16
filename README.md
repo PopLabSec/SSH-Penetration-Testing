@@ -3,8 +3,22 @@ description: >-
   Discover the ins and outs of SSH Penetration Testing in this comprehensive
   article. Learn techniques, tools, and protocols necessary to secure your
   network and safeguard your data.
-cover: .gitbook/assets/SSH_Penetration_Testing.png
+cover: .gitbook/assets/SSH_Penetration_Testing.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🟢 Hacking Port 22

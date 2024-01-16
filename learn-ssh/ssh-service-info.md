@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/SSH Penetration Testing.png
 coverY: 0
 ---
 
-# SSH Service Info
+# 🟢 SSH Service Info
 
 When it comes to protecting your servers from unauthorized access, there are no longer any excuses. Every business should be aware and make sure their SSH service is secure.&#x20;
 

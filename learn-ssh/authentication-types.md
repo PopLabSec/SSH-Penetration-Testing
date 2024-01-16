@@ -7,7 +7,7 @@ cover: ../.gitbook/assets/SSH Penetration Testing.png
 coverY: 0
 ---
 
-# Authentication Types
+# 🟢 Authentication Types
 
 Learn about the different SSH authentication types used in SSH Penetration Testing.&#x20;
 
