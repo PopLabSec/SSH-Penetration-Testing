@@ -1,8 +1,8 @@
 ---
 description: >-
-  SSH Penetration Testing is a cybersecurity service that identifies and helps
-  prevent vulnerabilities in systems by conducting detailed security analyses of
-  networks, systems and applications.
+  Discover the ins and outs of SSH Penetration Testing in this comprehensive
+  article. Learn techniques, tools, and protocols necessary to secure your
+  network and safeguard your data.
 cover: .gitbook/assets/SSH_Penetration_Testing.png
 coverY: 0
 ---
