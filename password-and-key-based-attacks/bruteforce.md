@@ -1,3 +1,10 @@
+---
+description: >-
+  Explore our in-depth article on SSH Penetration Testing Bruteforce, a critical
+  tool for uncovering vulnerabilities in your security system. Learn how to
+  protect your network today.
+---
+
 # Bruteforce
 
 ### Hydra Brute Force SSH Password
