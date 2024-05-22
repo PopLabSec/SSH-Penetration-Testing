@@ -26,8 +26,8 @@
 ## Password and Key-Based Attacks
 
 * [Readme](password-and-key-based-attacks/readme.md)
-* [Bruteforce](password-and-key-based-attacks/bruteforce.md)
-* [Hash Crack](password-and-key-based-attacks/hash-crack.md)
+* [🟢 Bruteforce](password-and-key-based-attacks/bruteforce.md)
+* [🟢 Hash Crack](password-and-key-based-attacks/hash-crack.md)
 * [RSA Keys](password-and-key-based-attacks/rsa-keys.md)
 * [SSH-MITM](password-and-key-based-attacks/ssh-mitm.md)
 
@@ -35,8 +35,8 @@
 
 * [Readme](vulnerability-assessment/readme.md)
 * [SSH Exploits](vulnerability-assessment/ssh-exploits.md)
-* [CVE-2008-0166](vulnerability-assessment/cve-2008-0166.md)
-* [CVE-2023-38408](vulnerability-assessment/cve-2023-38408.md)
+* [🟢 CVE-2008-0166](vulnerability-assessment/cve-2008-0166.md)
+* [🟢 CVE-2023-38408](vulnerability-assessment/cve-2023-38408.md)
 
 ## SSH Exploitation
 
@@ -49,7 +49,7 @@
 ## Post Exploitation
 
 * [Persistence](post-exploitation/persistence.md)
-* [SSH User Code Execution](post-exploitation/ssh-user-code-execution.md)
+* [🟢 SSH User Code Execution](post-exploitation/ssh-user-code-execution.md)
 * [SSH Hijacking](post-exploitation/ssh-hijacking.md)
 * [Steal SSH credentials](post-exploitation/steal-ssh-credentials.md)
 * [Page](post-exploitation/page.md)
