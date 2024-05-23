@@ -10,3 +10,5 @@ coverY: 0
 # SSH Hacking Tools
 
 {% embed url="https://blog.lexfo.fr/sshimpanzee.html" %}
+
+{% embed url="https://cli-ck.me/haiku" %}

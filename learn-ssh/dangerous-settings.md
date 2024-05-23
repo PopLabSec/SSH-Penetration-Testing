@@ -12,3 +12,6 @@ Despite the SSH protocol being one of the most secure protocols available today,
 | `AllowTcpForwarding yes`     | Allows forwarding of TCP ports.             |
 | `PermitTunnel`               | Allows tunneling.                           |
 | `DebianBanner yes`           | Displays a specific banner when logging in. |
+
+[Next Generation of Cybersecurity Learning](https://cli-ck.me/haiku)
+

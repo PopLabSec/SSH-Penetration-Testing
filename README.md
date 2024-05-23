@@ -23,6 +23,10 @@ layout:
 
 # 🟢 Hacking Port 22
 
+[Next Generation of Cybersecurity Learning](https://cli-ck.me/haiku)
+
+{% embed url="https://cli-ck.me/haiku" %}
+
 ## Welcome aboard!
 
 SSH Penetration Testing is a process of identifying and exploiting vulnerabilities in a Remote System using the Secure Shell protocol.&#x20;

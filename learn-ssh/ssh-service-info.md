@@ -11,6 +11,8 @@ Secure Shell, or SSH, is an encrypted networking protocol commonly used to gain 
 
 It is an important protocol that is used to securely transfer data between two computers over an insecure network or the internet.
 
+[Next Generation of Cybersecurity Learning](https://cli-ck.me/haiku)
+
 ### Installation
 
 ### Connecting

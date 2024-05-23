@@ -47,3 +47,5 @@ nmap -p22 <ip> --script ssh2-enum-algos
 ```
 nmap -p22 <ip> --script ssh-hostkey --script-args ssh_hostkey=full 
 ```
+
+{% embed url="https://cli-ck.me/haiku" %}

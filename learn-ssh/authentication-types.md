@@ -13,6 +13,8 @@ Learn about the different SSH authentication types used in SSH Penetration Testi
 
 Learn which authentication types are most secure and how to correctly implement them for optimal security.
 
+[Next Generation of Cybersecurity Learning](https://cli-ck.me/haiku)
+
 Use this guide to understand the various protocols available and identify which is best for your security requirements.
 
 ### **Password Authentication**
