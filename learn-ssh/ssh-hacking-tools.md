@@ -12,3 +12,7 @@ coverY: 0
 {% embed url="https://blog.lexfo.fr/sshimpanzee.html" %}
 
 {% embed url="https://cli-ck.me/haiku" %}
+
+| Tool Name | Description | URL |
+| --------- | ----------- | --- |
+|           |             |     |
