@@ -27,6 +27,12 @@ layout:
 
 {% embed url="https://cli-ck.me/haiku" %}
 
+{% hint style="danger" %}
+```
+Contact me on LinkedIn : https://cli-ck.me/rfs
+```
+{% endhint %}
+
 ## Welcome aboard!
 
 SSH Penetration Testing is a process of identifying and exploiting vulnerabilities in a Remote System using the Secure Shell protocol.&#x20;
